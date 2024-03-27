@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- [Olympic EDA in python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Olympic EDA in python](https://github.com/libbym/OlympicEDA)
 
 
 <h2> 🤳 Connect with me:</h2>
